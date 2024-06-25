@@ -54,7 +54,3 @@ This repository contains a collection of practical labs covering various topics 
 12. **Reinforcement Learning**
     - Basics of Reinforcement Learning (Note: This lab is not covered)
 
-Each lab includes:
-- **Code**: Implementations of algorithms and techniques in Python.
-- **Documentation**: Explanations and theory behind the methods.
-- **Exercises**: Practical exercises to apply learned concepts.
